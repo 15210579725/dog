@@ -1,0 +1,8 @@
+prefix=/home/mzx/Desktop/dog/devel/.private/hardware_ctrl
+
+Name: hardware_ctrl
+Description: Description of hardware_ctrl
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs sensor_msgs roscpp rospy unitree_legged_msgs

@@ -1,0 +1,5 @@
+Linked: (/home/mzx/Desktop/dog/devel/.private/unitree_gazebo/lib/libunitreeDrawForcePlugin.so, /home/mzx/Desktop/dog/devel/lib/libunitreeDrawForcePlugin.so)
+Linked: (/home/mzx/Desktop/dog/devel/.private/unitree_gazebo/lib/libunitreeFootContactPlugin.so, /home/mzx/Desktop/dog/devel/lib/libunitreeFootContactPlugin.so)
+Linked: (/home/mzx/Desktop/dog/devel/.private/unitree_gazebo/lib/pkgconfig/unitree_gazebo.pc, /home/mzx/Desktop/dog/devel/lib/pkgconfig/unitree_gazebo.pc)
+Linked: (/home/mzx/Desktop/dog/devel/.private/unitree_gazebo/share/unitree_gazebo/cmake/unitree_gazeboConfig-version.cmake, /home/mzx/Desktop/dog/devel/share/unitree_gazebo/cmake/unitree_gazeboConfig-version.cmake)
+Linked: (/home/mzx/Desktop/dog/devel/.private/unitree_gazebo/share/unitree_gazebo/cmake/unitree_gazeboConfig.cmake, /home/mzx/Desktop/dog/devel/share/unitree_gazebo/cmake/unitree_gazeboConfig.cmake)

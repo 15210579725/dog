@@ -1,0 +1,1 @@
+/home/mzx/Desktop/dog/devel/.private/dog_model/lib/pkgconfig/dog_model.pc

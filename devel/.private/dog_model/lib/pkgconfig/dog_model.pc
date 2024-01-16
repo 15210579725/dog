@@ -1,0 +1,8 @@
+prefix=/home/mzx/Desktop/dog/devel/.private/dog_model
+
+Name: dog_model
+Description: Description of dog_model
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: unitree_legged_msgs

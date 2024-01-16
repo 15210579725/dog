@@ -1,0 +1,1 @@
+/home/mzx/Desktop/dog/devel/.private/h1_description/lib/pkgconfig/h1_description.pc

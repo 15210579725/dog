@@ -1,0 +1,9 @@
+Warning: Cannot symlink from /home/mzx/Desktop/dog/devel/.private/dog_model/lib/libunitreeDrawForcePlugin.so to existing file /home/mzx/Desktop/dog/devel/lib/libunitreeDrawForcePlugin.so
+Warning: Source hash: e4d8371ba0435ca2904e55cafb35a5f5
+Warning: Dest hash: 0a01f9bee95b139ba7ff8e45ecc05d24
+Warning: Cannot symlink from /home/mzx/Desktop/dog/devel/.private/dog_model/lib/libunitreeFootContactPlugin.so to existing file /home/mzx/Desktop/dog/devel/lib/libunitreeFootContactPlugin.so
+Warning: Source hash: 9cc50e56afe2ad886345ea8bf0a4480f
+Warning: Dest hash: 5ab1ea076a17b6dd582f30287802a7d5
+Symlinking /home/mzx/Desktop/dog/devel/lib/pkgconfig/dog_model.pc
+Symlinking /home/mzx/Desktop/dog/devel/share/dog_model/cmake/dog_modelConfig.cmake
+Symlinking /home/mzx/Desktop/dog/devel/share/dog_model/cmake/dog_modelConfig-version.cmake

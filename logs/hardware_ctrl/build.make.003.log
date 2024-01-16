@@ -1,0 +1,48 @@
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target unitree_legged_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target unitree_legged_msgs_generate_messages_lisp
+[ 33%] Built target STM32_Node
+[ 33%] Built target geometry_msgs_generate_messages_lisp
+[ 33%] Built target std_msgs_generate_messages_eus
+[ 33%] Built target unitree_legged_msgs_generate_messages_nodejs
+[ 33%] Built target roscpp_generate_messages_eus
+[ 33%] Built target geometry_msgs_generate_messages_nodejs
+[ 33%] Built target geometry_msgs_generate_messages_cpp
+[ 33%] Built target sensor_msgs_generate_messages_py
+[ 33%] Built target sensor_msgs_generate_messages_lisp
+[ 33%] Built target geometry_msgs_generate_messages_py
+[ 33%] Built target sensor_msgs_generate_messages_nodejs
+[ 33%] Built target roscpp_generate_messages_py
+[ 33%] Built target rosgraph_msgs_generate_messages_py
+[ 33%] Built target roscpp_generate_messages_cpp
+[ 33%] Built target sensor_msgs_generate_messages_eus
+[ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[ 33%] Built target std_msgs_generate_messages_lisp
+[ 33%] Built target std_msgs_generate_messages_cpp
+[ 33%] Built target unitree_legged_msgs_generate_messages_eus
+[ 33%] Built target roscpp_generate_messages_lisp
+[ 33%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 33%] Built target std_msgs_generate_messages_py
+[ 33%] Built target unitree_legged_msgs_generate_messages_py
+[ 33%] Built target std_msgs_generate_messages_nodejs
+[ 33%] Built target sensor_msgs_generate_messages_cpp
+[ 55%] Built target imu_communication
+[ 66%] [32mBuilding CXX object CMakeFiles/dogstandup.dir/src/standup.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/motor_communication.dir/src/motor_communication.cpp.o[0m
+[01m[K/home/mzx/Desktop/dog/src/hardware_ctrl/src/standup.cpp:4:10:[m[K [01;31m[Kfatal error: [m[Kunitree_legged_msgs/motordata.h: No such file or directory
+    4 | #include [01;31m[K<unitree_legged_msgs/motordata.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/dogstandup.dir/build.make:63: CMakeFiles/dogstandup.dir/src/standup.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:232: CMakeFiles/dogstandup.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[01m[K/home/mzx/Desktop/dog/src/hardware_ctrl/src/motor_communication.cpp:4:10:[m[K [01;31m[Kfatal error: [m[Kunitree_legged_msgs/motordata.h: No such file or directory
+    4 | #include [01;31m[K<unitree_legged_msgs/motordata.h>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/motor_communication.dir/build.make:63: CMakeFiles/motor_communication.dir/src/motor_communication.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:288: CMakeFiles/motor_communication.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

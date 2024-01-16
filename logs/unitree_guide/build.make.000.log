@@ -1,0 +1,129 @@
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_nodejs[0m
+[  0%] Built target unitree_legged_msgs_generate_messages_nodejs
+[  0%] Built target unitree_legged_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_eus[0m
+[  0%] Built target unitree_legged_msgs_generate_messages_cpp
+[  0%] Built target unitree_legged_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target unitree_legged_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target unitree_legged_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target junior_ctrl[0m
+[  3%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/FSM.cpp.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/main.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/FSMState.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/State_BalanceTest.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/State_FixedStand.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/State_FreeStand.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/State_Passive.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/State_StepTest.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/State_SwingTest.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/State_Trotting.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/FSM/State_move_base.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/Gait/FeetEndCal.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/Gait/GaitGenerator.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/Gait/WaveGenerator.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/common/LowPassFilter.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/common/unitreeLeg.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/common/unitreeRobot.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/control/BalanceCtrl.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/control/ControlFrame.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/control/Estimator.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/interface/IOROS.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/interface/IOSDK.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/interface/KeyBoard.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/interface/WirelessHandle.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/quadProgpp/Array.cc.o[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/quadProgpp/QuadProg++.cc.o[0m
+[100%] [32m[1mLinking CXX executable /home/mzx/Desktop/dog/devel/.private/unitree_guide/lib/unitree_guide/junior_ctrl[0m
+[100%] Built target junior_ctrl

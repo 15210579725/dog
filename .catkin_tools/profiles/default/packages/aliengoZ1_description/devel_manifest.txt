@@ -1,0 +1,5 @@
+unitree_ros/robots/aliengoZ1_description
+/home/mzx/Desktop/dog/devel/.private/aliengoZ1_description/cmake.lock /home/mzx/Desktop/dog/devel/./cmake.lock
+/home/mzx/Desktop/dog/devel/.private/aliengoZ1_description/lib/pkgconfig/aliengoZ1_description.pc /home/mzx/Desktop/dog/devel/lib/pkgconfig/aliengoZ1_description.pc
+/home/mzx/Desktop/dog/devel/.private/aliengoZ1_description/share/aliengoZ1_description/cmake/aliengoZ1_descriptionConfig-version.cmake /home/mzx/Desktop/dog/devel/share/aliengoZ1_description/cmake/aliengoZ1_descriptionConfig-version.cmake
+/home/mzx/Desktop/dog/devel/.private/aliengoZ1_description/share/aliengoZ1_description/cmake/aliengoZ1_descriptionConfig.cmake /home/mzx/Desktop/dog/devel/share/aliengoZ1_description/cmake/aliengoZ1_descriptionConfig.cmake

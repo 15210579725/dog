@@ -1,0 +1,5 @@
+Symlinking /home/mzx/Desktop/dog/devel/lib/libunitreeDrawForcePlugin.so
+Symlinking /home/mzx/Desktop/dog/devel/lib/libunitreeFootContactPlugin.so
+Symlinking /home/mzx/Desktop/dog/devel/lib/pkgconfig/unitree_gazebo.pc
+Symlinking /home/mzx/Desktop/dog/devel/share/unitree_gazebo/cmake/unitree_gazeboConfig-version.cmake
+Symlinking /home/mzx/Desktop/dog/devel/share/unitree_gazebo/cmake/unitree_gazeboConfig.cmake

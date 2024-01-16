@@ -1,0 +1,7 @@
+Symlinking /home/mzx/Desktop/dog/devel/lib/hardware_ctrl/motor_communication
+Symlinking /home/mzx/Desktop/dog/devel/lib/hardware_ctrl/imu_communication
+Symlinking /home/mzx/Desktop/dog/devel/lib/hardware_ctrl/STM32_Node
+Symlinking /home/mzx/Desktop/dog/devel/lib/hardware_ctrl/dogstandup
+Symlinking /home/mzx/Desktop/dog/devel/lib/pkgconfig/hardware_ctrl.pc
+Symlinking /home/mzx/Desktop/dog/devel/share/hardware_ctrl/cmake/hardware_ctrlConfig.cmake
+Symlinking /home/mzx/Desktop/dog/devel/share/hardware_ctrl/cmake/hardware_ctrlConfig-version.cmake
